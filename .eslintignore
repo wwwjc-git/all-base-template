@@ -1,0 +1,7 @@
+/node_modules
+/public
+/dist
+/vite
+/src/types/*.d.ts
+/process
+/stats.html

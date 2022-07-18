@@ -1,0 +1,6 @@
+@function vw ($vw) {
+  @return $vw * calc(1 / 19.2) * 1vw
+}
+@function vh ($vh) {
+  @return $vh * calc(1 / 10.8) * 1vh
+}

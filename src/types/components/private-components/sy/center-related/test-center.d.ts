@@ -1,0 +1,4 @@
+interface TestCenter {
+  username: '',
+  password: ''
+}
